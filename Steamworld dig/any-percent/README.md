@@ -20,20 +20,20 @@ Tumbleton
 - First soft soil tile: dig down, then left after hard rock. Fetch 3
   ore.
 
-  ![Dig on first soft soil](./1 - dig there.jpg)
+  ![Dig on first soft soil](./1%20-%20dig%20there.jpg)
 
 - Dig down, resuming the shaft, then left after pair of hard
   rock. Fetch ore.
 - Dig down, resuming the shaft, kill critter. Fetch ore.
 
-  ![The first shaft](2 - the first shaft.jpg)
+  ![The first shaft](2%20-%20the%20first%20shaft.jpg)
 
 - Climb up.
 - After ladder, dig down, the fetch ore on the left.
 - Dig right. Fetch ore on top. Move one square left and dig down to
   fetch ore.
 
-  ![The second shaft](3 - the second shaft.jpg)
+  ![The second shaft](3%20-%20the%20second%20shaft.jpg)
 
 - Exit mine.
 
@@ -50,7 +50,7 @@ Archae
 - Acquire speed boots.
 - Take citrine under the rightmost bridge.
 
-  ![Citrine location](4 - citrine.jpg)
+  ![Citrine location](4%20-%20citrine.jpg)
 
 - Climb to the right. Grabbing corners, climb to the inner dungeon.
 - Get ore and orbs to the right.
@@ -71,27 +71,27 @@ Archae
 - Skip golden gear.
 - Get orbs to the right.
 
-  ![Orb location](5 - orbs.jpg)
+  ![Orb location](5%20-%20orbs.jpg)
 
 - Go left to aquire steamjump.
 - Use steam jump to go on the plateform to the right.
 - Steamjump into second soft soil.
 
-  ![Soft soil to break with steam jump](6 - steamjump here.jpg)
+  ![Soft soil to break with steam jump](6%20-%20steamjump%20here.jpg)
 
 - Pull levers 2&3.
 
-  ![Pull levers 2&3](7 - pull lever 2 & 3.jpg)
+  ![Pull levers 2&3](7%20-%20pull%20lever%202%20&%203.jpg)
 
 - Get ore and orbs. Exit to the right.
 - Stay on top while going left. Take adventurine in the ceiling, on
   the way, with steamjump.
 
-  ![Adventurine in the ceiling](8 - adventurine in the ceiling.jpg)
+  ![Adventurine in the ceiling](8%20-%20adventurine%20in%20the%20ceiling.jpg)
 
 - Take ore to the left.
 
-  ![Location of ore before dungeon exit](9 - ore before exiting dungeon.jpg)
+  ![Location of ore before dungeon exit](9%20-%20ore%20before%20exiting%20dungeon.jpg)
 
 - Dig down to exit dungeon.
 
@@ -103,7 +103,7 @@ Archae
 - Teleport into the mine. Dig down, getting ore on the way.
 - At about 150m, do optional dungeon.
 
-  ![Optional dungeon solved](10 - optional dungeon solved.jpg)
+  ![Optional dungeon solved](10%20-%20optional%20dungeon%20solved.jpg)
 
 - Arriving at third dungeon, put a teleporter and teleport to
   Tumbleton.
@@ -115,16 +115,16 @@ Archae
 - First lever to the left.
 - Get golden gear in hidden area.
 
-  ![Hidden area entrance](11 - hidden area entrance.jpg)
+  ![Hidden area entrance](11%20-%20hidden%20area%20entrance.jpg)
 
 - Second lever to the right.
 - Get quartz in the ceiling of plateform.
 
-  ![Location of quartz in the ceiling](12 - quartz in the ceiling.jpg)
+  ![Location of quartz in the ceiling](12%20-%20quartz%20in%20the%20ceiling.jpg)
 
 - Go left to third lever. Take three ores on the way.
 
-  ![Three ores on the way](13 - tunneling for ore.jpg)
+  ![Three ores on the way](13%20-%20tunneling%20for%20ore.jpg)
 
 - Go acquire drill.
 - Exit dungeon
@@ -141,9 +141,9 @@ Archae
 - On the way down there is a lamp under a hard-rock plateform with a
   lamp. Two tile down, get the citrine.
 
-  ![Dig right to lamp](14 - dig right.jpg)
+  ![Dig right to lamp](14%20-%20dig%20right.jpg)
 
-  ![Then dig down](15 - dig down.jpg)
+  ![Then dig down](15%20-%20dig%20down.jpg)
 
 - Put teleporter to the side of the dungeon.
 - Enter first dungeon.
@@ -153,7 +153,7 @@ Archae
 - Climb up.
 - Take citrine. Dig down.
 
-  ![Citrine location](16 - citrine in first dungeon.jpg)
+  ![Citrine location](16%20-%20citrine%20in%20first%20dungeon.jpg)
 
 - Reach inner dungeon from the right.
 - Get diamond in rocky soil.
