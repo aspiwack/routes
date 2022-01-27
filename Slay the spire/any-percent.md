@@ -23,6 +23,13 @@ Basic strategy:
     strategy.
   - In a typical run you should add no more than 10 cards to your
     deck.
+- Always start with “The first 3 fights have 1 HP”.
+  - This gives you a bit of time at the beginning to find cards that
+    will bootstrap your damage output.
+  - Neow offers this option when you haven't reached level 15 in your
+    previous run.
+  - If Neow doesn't offer this option then Abandon Run (which counts
+    as a loss at level 0) and restart the run.
 
 Execution:
 - Use the keyboard shortcut for the map (M by default, but I prefer
