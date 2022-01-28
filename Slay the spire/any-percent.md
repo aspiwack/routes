@@ -96,7 +96,9 @@ energy.
 - Double Tap (this turn, your next attack is played twice, costs 1)
   - Take 1 copy.
 - The best strength item is Flex (+2 strength now, -2 strength at the
-  end of the turn, costs 0). Take over anything else but Whirlwind.
+  end of the turn, costs 0). Take over anything else but Whirlwind (or
+  energy cards if you already have Whirlwind and are still on 3
+  energy).
   - You ideally want 2 Flex. 3 may be good too.
   - Once you have strength upgrades, Limit Break (Double your
     strength, costs 1, exhaust) is helpful. You can take 1 or 2.
@@ -111,7 +113,8 @@ energy.
     this turn) is a great source of draws as well. There is almost
     never a reason not to take 1.
   - If energy is short, one Bloodletting (-3 HP, +2 energy, costs 0)
-    can be helpful.
+    can be helpful. Take one if you have Whirlwind.
+  - Seeing Red (+2 energy, costs 2) can be a backup.
 - Thunderclap (4 damage and 1 vulnerable to all enemies, costs 1),
   because it affects all enemies, and only costs one, is often a
   better way than Bash (from the starting deck) to reinforce your
@@ -136,19 +139,20 @@ Upgrade, in order of priority:
 
 ### Shops
 
-The priorities are
+The general priorities (in no particular order, it depends on the
+deck) are
 
-- Buy the cards you need (in particular Whirlwind and Flex)
+- Juzu Bracelet (take over anything else)
+- Buy Chemical X (cost X card act as if you spent 2 extra
+  energy). Take over anything else if you have Whirlwind.
+- Buy the cards you need (especially Whirlwind and Flex)
 - Remove Defend-s (then Strike-s, then any card that has now become
   superfluous)
-- Buy strength-upgrading relics and Chemical X (cost X card act as if
-  you spent 2 extra energy) if you have Whirlwind
+- Buy strength-upgrading relics.
 
 Forgotten Arbiter's guide also lists these important relics (in order
 of priority)
 
-1. Juzu Bracelet
-1. Whirlwind
 1. Akabeko
 1. Brimstone
 1. Bottled Flame (Only if targeting Whirlwind)
