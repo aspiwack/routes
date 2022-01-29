@@ -11,7 +11,7 @@ First glitches to learn:
   second clicked node.
 - Ignore any glitch requiring controller inputs, they only get
   relevant when you reach top times.
-  
+
 Basic strategy:
 - Avoid fight nodes
   - Prefer chests, campfires, or shops
@@ -34,7 +34,7 @@ Basic strategy:
 Execution:
 - Use the keyboard shortcut for the map (M by default, but I prefer
   remapping all the keyboard shortcuts to the left hand) to exit all
-  events. Except: 
+  events. Except:
   - Text events, where you typically have to click on the _Leave_
     dialogue option to activate the next node.
   - Area bosses: opening the map only shows the same area. You have to
@@ -56,7 +56,7 @@ Execution:
   the Spire. It contains some general explanation, as well as some
   advanced techniques, and links to relevant resources.
 
-[file_setups]: https://github.com/OohBleh/Spire-speedruns-and-other-stuff/tree/main/file_setups 
+[file_setups]: https://github.com/OohBleh/Spire-speedruns-and-other-stuff/tree/main/file_setups
 [oohbleh_guide]: https://raw.githubusercontent.com/OohBleh/Spire-speedruns-and-other-stuff/main/guide/main.pdf
 
 ## The Ironclad
@@ -122,7 +122,7 @@ energy.
   - Take 1 if you don't have Bag of Marbles (relic: apply 1 vulnerable
     to all enemies on the first turn of the fight) the deck isn't
     quite working yet.
-    
+
 ### Upgrading
 
 _slightly adapted from Forgotten Arbiter's guide_
