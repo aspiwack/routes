@@ -167,5 +167,78 @@ of priority)
 4. Anything that doesn't prevent your deck from working.
 
 
+## The Watcher
+
+### Quick (no ascension) watcher guide from Z.
+
+[_Originally shared on Discord_](https://discord.com/channels/429108723797983241/933108854705778808/937061691391348797)
+
+Cards to pick
+- Crescendo (easy 0 cost free double damage) (remove eruption after
+  picking up this one(remove vigilance first))
+- Bowling bash, really cheap alternative for damage, will be very
+  helpful in act 2
+- Consecrate (free aoe)
+- Crush joints (A tier card, free vuln. Use with miracle)
+- Carve reality (A tier damage)
+- Conclude (A tier, will carry you pretty much till act 3)
+- Signature move. (Only if you know what you are doing tier, good with
+  consecrates)
+
+Combo pieces
+- Wreath of flames (Works great with rag and conclude what more to
+  say)
+- Ragnarok (The main card you are really looking for)
+- Blasphemy ( A better Crescendo, who wants double damage when you can
+  triple) ( Blasph + wreath + rag should end most fights) ( Carefull
+  in act 3 tho )
+- Scrawl (For when you haven't removed enough cards, also free draw,
+  can't be bad)
+- Trip (always buy if you can afford) All other cards are a no go.
+
+Potions Most potions are good. Except for the defensive ones, toss em
+out to make space for the good ones.  Power potions are trash, don't
+bother. If you did bother, the only good one is battle hymn, maybe
+fasting too but that a desperado move.
+
+Notable potions
+- Liquid memories
+- Smoke bomb
+- Strenght and flex pots
+- Fear potions
+- Duplication potion
+
+
+Relics
+- Pandora's
+- Energy relics
+- Akabeko
+- Bag of marbles
+
+Strategy
+
+Upgrade Eruption first, always (unless you picked up a crescendo then
+upgrade the crescendo first) Remove vigilance first always Don't worry
+about not picking up a lot of cards in act 1, watcher works wonders
+with strikes and vuln should do wonders.
+
+Learn the important glitches, (Pbox. Curse skipping, double noding,
+double bossing, Yass queening, Cory) Don't be shy to double boss to
+imporve your odds of Pbox + Rag.
+
+Watch the top leaderboard runs to understand the general strats and
+pathing choices.
+
+Take the path with the least resistance aka, the less combats the
+better.  Prioritize card removals. We are trying to get exodia here,
+the less cards you have the better.
+
+While shopping try to remove the defends early, but don't spend all
+your $$. Try to save to buy the important relics / cards. There is a
+fine balancing act of money management that I won't get into depth
+here. But Important relics > Removals (Since we are hoping for a Pbox
+highroll anyway) I'll probably write a fuller/more in-depth guide for
+all the characters soon
+
 <!--  LocalWords:  speedrunning Screenlayer oohbleh Deckbuilding
  -->
