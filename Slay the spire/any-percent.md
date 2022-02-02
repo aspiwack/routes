@@ -1,7 +1,9 @@
 Slay the spire any% (unseeded)
 ==============================
 
-[Glitch reference](https://docs.google.com/spreadsheets/d/101K_6xxDjQH2caGApCMxgrybOScGw0VRwd5C-qYl0tA/edit#gid=0)
+[Glitch reference](https://docs.google.com/spreadsheets/d/101K_6xxDjQH2caGApCMxgrybOScGw0VRwd5C-qYl0tA/edit#gid=0), 
+[Glitch tutorials](https://www.youtube.com/watch?v=u8gYeZQGH1Y) by
+Forgotten Arbiter with more detailed descriptions.
 
 First glitches to learn:
 - _Screenlayer removal_ (very easy): make Pandora's Box and and Bell
