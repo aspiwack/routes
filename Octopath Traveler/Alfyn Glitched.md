@@ -138,6 +138,7 @@ strategy and some extra cues._
 
 - TP Clearbrook
   - Tag Saintbridge
+    - Purchase (Old man on the way): sleepweed
   - Purchase (man on the bridge, 1st screen): Pom (S), (M) and (L)
   - Purchase (man on the bridge, 2nd screen): Wind Soulstone (M) and (L)
   - Skill:
