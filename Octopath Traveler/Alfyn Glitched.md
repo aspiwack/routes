@@ -6,11 +6,10 @@ strategy and some extra cues._
 
 ## Evasive manoeuvre
 
-- New Game: Alfyn
-- Save
-
 ### With Cait grind (faster but highly luck-dependent)
 
+- New Game: Alfyn
+- Save
 - Void State: warp to Rippletide
 - Tag Atlasdam
 - Recruit Cyrus
@@ -23,9 +22,17 @@ strategy and some extra cues._
 - Support Skill:
   - Cyrus: EM
 
-### No Cait grind
+### No Cait grind (easy Russell)
 
-- Void State: Teleport to Atlasdam
+A bit slower than the advanced method but the Russell fight is
+scripted.
+
+- New Game: Alfyn
+- Save
+- Void State: warp to Atlasdam
+  - Optional: before opening the menu with Cyrus, you can walk
+    straight down while Cyrus is intangible. Cyrus will pass through
+    the ledge. And you will warp just by the chest.
 - Get Thunder Soulstone (S) in the chest in the Palace (corridor to
   the right, bottom of the stairs)
 - Recruit Cyrus
@@ -59,6 +66,62 @@ strategy and some extra cues._
 - Tag Rippletide
 - Tag Stonegard
 
+### No Cait grind (advanced Russell)
+
+Russell can be one turn shorter. But there is RNG involved and the
+fight can go several way. Taking a third fight in the Subterranean
+Study may (TODO: check) guarantee a 4 turn Russell; it's not worth
+forcing a third fight, but if you get one it's probably better to kill
+it than escape. Even if you kill turn 5, it may save time over the
+simpler script, but I haven't timed it.
+
+- New Game: Alfyn
+- Shop
+  - Arcane Hatchet
+  - Essence of Grape x2
+  - Injurious Seed x11
+- Save
+- Void State: warp to Atlasdam
+  - Optional: before opening the menu with Cyrus, you can walk
+    straight down while Cyrus is intangible. Cyrus will pass through
+    the ledge. And you will warp just by the chest.
+- Get Thunder Soulstone (S) in the chest in the Palace (corridor to
+  the right, bottom of the stairs)
+- Recruit Cyrus
+- Scrutinize Guard: Light Soulstone (S)
+- Kill encounters on the way to Russell
+- Light Soulstone (S) in the chest before Russell
+- Russell
+  - Concoct (Injurious Seed + Essence of grape) has a 50% chance to
+    lower defence. If Russell's defence is lowered when Alfyn does Axe
+    x4, then the fight ends turn 4. The slash notation reads as _Cyrus
+    First T3_ / _Alfyn First T3_.
+  - **Turn 1**
+     - Cyrus: Fireball
+     - Alfyn: Thunder Soulstone (S)
+  - **Turn 2**
+     - Cyrus: Light Soulstone (S)
+     - Alfyn: Concoct (Injurious Seed + Essence of grape)
+  - **Turn 3** The character that plays first must break
+     - Cyrus: Staff x2 (break) / light soulstone (S)
+     - Alfyn: Axe x4 / Concoct (Injurious Seed + Essence of grape) (break)
+  - **Turn 4**
+     - Cyrus: Fireball x3 / Fireball x4
+     - Alfyn: light soulstone / Axe x4
+  - **Turn 5** If Russell isn't dead
+     - Cyrus: Fireball (max boost)
+     - Alfyn: Axe (max boost)
+- Scrutinize (Girl in the square): Light Soulstone (M)
+- Whistlewood
+- Menu
+  - Skill:
+    - Cyrus: Firestorm and Blizzard
+  - Support Skill:
+    - Cyrus: Evasive Manoeuvre
+- TP Atlasdam
+- Tag Rippletide
+- Tag Stonegard
+
 # Chapter 1
 
 - Pick: Light Soulstone (M) (chest south of Stonegard entrance)
@@ -70,7 +133,7 @@ strategy and some extra cues._
   - Light Soulstone (M) (if we killed Russell (no Cait), then need
     ~500 extra damage, Blizzard x3 from Cyrus does the trick)
 - Inquire (Zeph): Sleepweed
-- Shop: Injurious Seed x11
+- Shop (unless caitless advanced): Injurious Seed x11
 
 # Traveling
 
