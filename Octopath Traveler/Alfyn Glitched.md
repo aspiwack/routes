@@ -77,7 +77,7 @@ simpler script, but I haven't timed it.
 
 - New Game: Alfyn
 - Shop
-  - Arcane Hatchet
+  - Arcane Hatchet -> Alfyn
   - Essence of Grape x2
   - Injurious Seed x11
 - Save
@@ -109,7 +109,7 @@ simpler script, but I haven't timed it.
      - Cyrus: Fireball x3 / Fireball x4
      - Alfyn: light soulstone / Axe x4
   - **Turn 5** If Russell isn't dead
-     - Cyrus: Fireball (max boost)
+     - Cyrus: Icewind (max boost)
      - Alfyn: Axe (max boost)
 - Scrutinize (Girl in the square): Light Soulstone (M)
 - Whistlewood
