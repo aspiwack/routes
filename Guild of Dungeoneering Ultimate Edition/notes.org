@@ -1,0 +1,67 @@
+* Unlocks
+
+- Tier 2 classes cost 750 and require two Tier 1 classes unlocked
+- Tier 3 classes cost 2500 and require two Tier 2 classes unlocked
+
+** Runnable classes
+*** Tier 1
+- Bruiser is probably the best class
+  - Favour Crush, Armour for physical enemies, Holy, Swift for magical enemies
+- Cat burglar has good damage output too. But it's not as good.
+  - Favour Growth, Crush, Swift (probably)
+*** Tier 2
+- Barbarian has the best Damage output, annoying to control(?)
+  - Run with /Swift 1/ and no other cards, usually (you really want the
+    Withstand card in your hand at most time)
+  - Wise is good, ♡ are good, it may be worth it having one extra card
+    for those.
+- Alchemist is safer
+*** Tier 3
+- Cardomancer is the only runnable stock class
+- Swashbuckler is really good, but it's too slow to get in Any%
+** Blessings
+- Tier 1: run Warrior Spirit
+- Take talisman of the crone as second unlock (required for /Idol of
+  the crown/, /Crone's Mind/)
+** Loot
+*** Tier 1
+- Unlock /Blacksmith/ and /Leatherwork/ first. The other two when running
+  a Tier 2 class.
+* Bosses
+** Level ⭐ area
+- Ice Cream area unlocked after any 1 area is cleared
+- /Evil lich!/ unlocks after 3 (2?) areas are cleared
+- Playing the level out of order, I seem to have managed to block
+  myself out of the final dungeon (/nosy eye/). I'm not sure what the
+  condition is. I believe I played /Gobliiins/, /None shall
+  pass/, /Evil Lich!/, /A Victimless Crime/, /Firelord/.
+*** Embro
+- /Firelord/
+*** Mimic Queen
+- /A Victimless Crime/
+- Brittle, mostly magic attacks
+*** Orc Warrior
+- /Gobliiins/
+- Name of the area?
+- Physical attacks, stupidity
+- Kill 2 enemies for level 3 before Fountain of Stupidity. The Gnolls
+  can be dangerous.
+- Kill 1 Gnoll to shake the fountain, then kill a level 3 enemy for
+  level 4
+- Unlocks Black Knight/None shall pass(?, at least when beaten first)
+*** Evil Lich
+- /Evil Lich!/
+- Frail (+1 to our physical damage)
+*** Black knight
+- /None shall pass/
+- Mundane, mostly magic attacks
+*** Eye beast
+- /Nosy eye/
+- Unlocks superchump
+- Unlocks Level ⭐⭐ area
+- ~1000 gold reward
+**** Quest 1
+- Basilisk are risky, take an extra encounter for level 4, probably
+** Level ⭐⭐ area
+- It's basically impossible to get 750 gold before entering it.
+- Play the Pirate Map early, otherwise it'll keep taking up one card choice.
