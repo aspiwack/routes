@@ -16,17 +16,30 @@
   - Wise is good, ♡ are good, it may be worth it having one extra card
     for those.
 - Alchemist is safer
+  - Likes Fire/Arcane/Growth, and possibly Blade.
 *** Tier 3
 - Cardomancer is the only runnable stock class
+  - Wants a lot of draws (Swift/Arcane/wise)
 - Swashbuckler is really good, but it's too slow to get in Any%
 ** Blessings
 - Tier 1: run Warrior Spirit
 - Take talisman of the crone as second unlock (required for /Idol of
   the crown/, /Crone's Mind/)
+- With Cartomancer Rush /Shrine of the Crone/ Tier 3 (Gives /Arcane 1/)
 ** Loot
 *** Tier 1
 - Unlock /Blacksmith/ and /Leatherwork/ first. The other two when running
   a Tier 2 class.
+*** Tier 2
+(unlock rather late)
+**** With Alchemist
+1. Fine Awl (2nd choice)
+**** With Barbarian
+Wait until tier 3
+**** With Cardomancer (Tier 3 class)
+1. Fine Awl
+**** With Swashbuckler (Tier 3 class)
+1. Fine Chisel?
 * Bosses
 ** Level ⭐ area
 - Ice Cream area unlocked after any 1 area is cleared
