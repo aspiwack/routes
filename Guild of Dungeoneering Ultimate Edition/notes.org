@@ -17,6 +17,10 @@
     for those.
 - Alchemist is safer
   - Likes Fire/Arcane/Growth, and possibly Blade.
+  - After trying it out, I'm not convince it's that much safer (though
+    I remember that going into the Pirates with the Barbarian was
+    really hard. Do I remember correctly? Are the pirates Tier 2?
+    Maybe I'm mixing up with something else).
 *** Tier 3
 - Cardomancer is the only runnable stock class
   - Wants a lot of draws (Swift/Arcane/wise)
