@@ -106,7 +106,8 @@ Strat notes:
 - Fight Junk Heap
 - Card Shop
   - Void Ancient (x4)
-  - Regis Ribbit (x2)
+  - Regis Ribbit (x1 (I really want x2, but we can be short in
+    resources, until we are more precise in routing resources, let's not))
   - Ancient Lullaby (x2)
 - Belarus2 (NOT Eyes of Sins event)
 - Malarkey
@@ -122,7 +123,7 @@ Strat notes:
   - Swap
   - New deck: Superstar shoutout archetype
   - + Bruteskin Ancient (x4)
-  - + Serpent Song (x1)
+  - + Serpent Song (x2 (x1 if 2 Regis Ribbits))
   - + Void Ancient (x3 to a total of x4)
   - Relic
     - + Devilcore choker
