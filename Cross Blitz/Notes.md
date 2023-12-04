@@ -88,9 +88,9 @@ Strat notes:
 - Relic Shop
   - Finn Lochley Taiyaki
 - Deck:
-  - + Devilcore Zealot (x4)
-  - + Devilcore Dance (x1)
-  - - Serpent Song (x5)
+  - \+ Devilcore Zealot (x4)
+  - \+ Devilcore Dance (x1)
+  - \- Serpent Song (x5)
   - Equip Finn Lochley Taiyaki
 - Fight Hogwash (NOT WICK)
 - Fight Junk Bot (nothing else to do in area)
@@ -98,9 +98,9 @@ Strat notes:
   - start being a little mindful about your health
   - Level up (I'm guessing can be skipped)
 - Deck (skip if skipping level up)
-  - + Stage dive (x1)
-  - + Hexi (x1)
-  - - Serpent Song (x2)
+  - \+ Stage dive (x1)
+  - \+ Hexi (x1)
+  - \- Serpent Song (x2)
   - (alt: just Stage Dive, skip Hexi)
 - Purple chest
 - Fight Junk Heap
@@ -122,16 +122,18 @@ Strat notes:
 - Deck
   - Swap
   - New deck: Superstar shoutout archetype
-  - + Bruteskin Ancient (x4)
-  - + Serpent Song (x2 (x1 if 2 Regis Ribbits))
-  - + Void Ancient (x3 to a total of x4)
+  - \+ Bruteskin Ancient (x4)
+  - \+ Serpent Song (x2 (x1 if 2 Regis Ribbits))
+  - \+ Void Ancient (x3 to a total of x4)
   - Relic
-    - + Devilcore choker
-    - + Finn Lochley Taiyaki
+    - \+ Devilcore choker
+    - \+ Finn Lochley Taiyaki
 - Boss: Jarvis
   - Defend/control damage as much as possible
   - Boost your Draconic damage (w/ Concert Craze, Hymnhowl Spirit)
   - Altar/Blitz Burst: damage Jarvis
+- Enter area
+- Purple chest
 
 ### Jarvis vs Ancient Flux (I don't like anymore)
 
@@ -150,12 +152,12 @@ Strat notes:
   - Level up: Reset + Ancient Flux + 1 Frantic Fandom
 - Deck (Swap)
   - New Deck (archetype Ancient Flux)
-  - + Blood Oath (x4)
-  - + Crowd Surfer (x2)
-  - + Bruteskin Ancient (x4)
-  - + Draco Blast (x4 (to have 6))
+  - \+ Blood Oath (x4)
+  - \+ Crowd Surfer (x2)
+  - \+ Bruteskin Ancient (x4)
+  - \+ Draco Blast (x4 (to have 6))
   - Relic
-    - + Ceremonial Garb
+    - \+ Ceremonial Garb
 - Boss: Jarvis
 
 #### Jarvis vs Draconic Demise (doesn't work)
@@ -172,11 +174,11 @@ Strat notes:
   - Meld Squidface Ruffian (x2) (on page 2)
 - Deck (Swap)
   - New deck (archetype: Draconic Demise)
-  - + Blood Pact (x4)
-  - + Groupie (x4)
-  - + Skull Recruit (x2)
-  - + Bruteskin Ancient (x4)
-  - + Squidface ruffian (x1: there's already one in the deck)
+  - \+ Blood Pact (x4)
+  - \+ Groupie (x4)
+  - \+ Skull Recruit (x2)
+  - \+ Bruteskin Ancient (x4)
+  - \+ Squidface ruffian (x1: there's already one in the deck)
 - Next area
 - Boss
   - Has real health, don't ignore defence
