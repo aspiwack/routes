@@ -1,4 +1,4 @@
-# Ongoing notes for Cross Blitz (early access)
+# Ongoing notes for Cross Blitz (Fables demo)
 
 ## Redcroft campaign
 
@@ -39,3 +39,98 @@
   - Relic: equip Redwing Flag (if aquired)
 - Two screen south, enter Grubb's bar
 - Grubb fight
+
+# Notes Fables, early access
+
+## General tech
+
+- Esc skips tutorials
+- Esc skips cuscenes
+- Esc exits out of Deck menu and shops
+
+## Violet
+
+- Boskins: Minions (I believe) up to Thrash
+- Thrash: spells
+- Bad violet: Minions
+- Alatar: spells
+
+### Chapter 1
+
+Strat notes:
+- For most fight, the strat is: get Mosh Pit out asap
+  - This means keep your mana crystal for T2 Mosh Pit
+  - Mulligan starting hand if you don't have a starting Mosh Pit
+  - If you have more than enough mana, play minions in the defended
+    columns to improve the chances of Mosh Pit's Groupies spawning on
+    undefended territory.
+  - If Devilcore Dance + Mosh Pit: worth playing Devilcore Dance
+    first.
+- At first ignore defence: the hp difference means that rushing is
+  best
+- For offence: stack card on same column: it's slighly harder to
+  defend against
+
+- First 2 fight
+- Level up: Frantic fandom
+- Green chest
+- Relic Shop
+  - Finn Lochley Taiyaki
+- Deck:
+  - + Devilcore Zealot (x4)
+  - + Devilcore Dance (x1)
+  - - Serpent Song (x5)
+  - Equip Finn Lochley Taiyaki
+- Fight Hogwash (NOT WICK)
+- Belarus
+  - start being a little mindful about your health
+  - Level up (I'm guessing can be skipped)
+- Deck (skip if skipping level up)
+  - + Stage dive (x1)
+  - + Hexi (x1)
+  - - Serpent Song (x2)
+  - (alt: just Stage Dive, skip Hexi)
+- Purple chest
+- Card Shop
+  - Blood Oath (x4)
+  - Void Ancient (x4)
+  - (note: left 1600 moneys, can maybe skip the money chest if not
+    needed in later chapters)
+- (Possible: buy Supply Sack at the relic shop)
+- Belarus2 (NOT Eyes of Sins event)
+- Green chest
+- Relic shop
+  - Ceremonial Garb
+- Meld
+  - Skip cutscene tick box
+  - Meld Squidface Ruffian (x2) (on page 2)
+  - Draconic Blast (x8)
+- Malarkey
+  - Level up: Reset + Ancient Flux + 1 Frantic Fandom
+- Deck (Swap)
+  - New Deck (archetype Ancient Flux)
+  - + Blood Oath (x4)
+  - + Crowd Surfer (x2)
+  - + Bruteskin Ancient (x4)
+  - + Draco Blast (x4 (to have 6))
+  - Relic
+    - + Ceremonial Garb
+- Boss: Jarvis
+
+#### Jarvis vs Draconic Demise (doesn't work)
+
+- Malarkey
+  - Level up: Reset + Full Draconic Demise + 1 Frantic Fandom
+- Meld
+  - Skip cutscene tick box
+  - Meld Squidface Ruffian (x2) (on page 2)
+- Deck (Swap)
+  - New deck (archetype: Draconic Demise)
+  - + Blood Pact (x4)
+  - + Groupie (x4)
+  - + Skull Recruit (x2)
+  - + Bruteskin Ancient (x4)
+  - + Squidface ruffian (x1: there's already one in the deck)
+- Next area
+- Boss
+  - Has real health, don't ignore defence
