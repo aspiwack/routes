@@ -48,6 +48,15 @@
 - Esc skips cuscenes
 - Esc exits out of Deck menu and shops
 
+## Setup checklist
+
+- Accessibility
+  - Combat speed x2
+  - Shaking off
+  - Flashing off
+- Gameplay
+  - New card alert off
+
 ## Violet
 
 - Boskins: Minions (I believe) up to Thrash
@@ -71,8 +80,10 @@ Strat notes:
 - For offence: stack card on same column: it's slighly harder to
   defend against
 
-- First 2 fight
-- Level up: Frantic fandom
+- First fight
+- **VISIT SHOP** and exit
+- Second fight
+  - Level up: Frantic fandom
 - Green chest
 - Relic Shop
   - Finn Lochley Taiyaki
@@ -82,6 +93,7 @@ Strat notes:
   - - Serpent Song (x5)
   - Equip Finn Lochley Taiyaki
 - Fight Hogwash (NOT WICK)
+- Fight Junk Bot (nothing else to do in area)
 - Belarus
   - start being a little mindful about your health
   - Level up (I'm guessing can be skipped)
@@ -91,14 +103,42 @@ Strat notes:
   - - Serpent Song (x2)
   - (alt: just Stage Dive, skip Hexi)
 - Purple chest
+- Fight Junk Heap
+- Card Shop
+  - Void Ancient (x4)
+  - Regis Ribbit (x2)
+  - Ancient Lullaby (x2)
+- Belarus2 (NOT Eyes of Sins event)
+- Malarkey
+  - Level up: Rest + Full Superstar shoutout + 1 Frantic fandom
+- Meld
+  - **TICK SKIP CUTSCENE BOX**
+  - Drake Altar (x2)
+  - Hymnhowl Spirit (x3)
+- Backtrack to Green chest + relic shop
+- Relic
+  - Devilcore choker
+- Deck
+  - Swap
+  - New deck: Superstar shoutout archetype
+  - + Bruteskin Ancient (x4)
+  - + Serpent Song (x1)
+  - + Void Ancient (x3 to a total of x4)
+  - Relic
+    - + Devilcore choker
+    - + Finn Lochley Taiyaki
+- Boss: Jarvis
+  - Defend/control damage as much as possible
+  - Boost your Draconic damage (w/ Concert Craze, Hymnhowl Spirit)
+  - Altar/Blitz Burst: damage Jarvis
+
+### Jarvis vs Ancient Flux (I don't like anymore)
+
 - Card Shop
   - Blood Oath (x4)
   - Void Ancient (x4)
   - (note: left 1600 moneys, can maybe skip the money chest if not
     needed in later chapters)
-- (Possible: buy Supply Sack at the relic shop)
-- Belarus2 (NOT Eyes of Sins event)
-- Green chest
 - Relic shop
   - Ceremonial Garb
 - Meld
@@ -119,6 +159,11 @@ Strat notes:
 
 #### Jarvis vs Draconic Demise (doesn't work)
 
+- Card Shop
+  - Blood Oath (x4)
+  - Void Ancient (x4)
+  - (note: left 1600 moneys, can maybe skip the money chest if not
+    needed in later chapters)
 - Malarkey
   - Level up: Reset + Full Draconic Demise + 1 Frantic Fandom
 - Meld
