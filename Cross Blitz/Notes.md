@@ -182,3 +182,17 @@ Strat notes:
 - Next area
 - Boss
   - Has real health, don't ignore defence
+
+### Chapter 2
+- **VISIT CARD SHOP** and exit
+- Thought: do I want to keep spells or switch to minions instead?
+  - If going spell, I think we need to meld altars
+- Fight Kil
+- (Relic shop necessary if later switch to Death or Flux, also hex
+  breaker? not sure whether it's new actually)
+- Up first ('cause why not?)
+- Fight Volt
+- Purple Chest
+- Go left then ('cause, again, why not?)
+- Fight Hexi
+- Green chest
