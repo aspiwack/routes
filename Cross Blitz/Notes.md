@@ -187,6 +187,13 @@ Strat notes:
 - **VISIT CARD SHOP** and exit
 - Thought: do I want to keep spells or switch to minions instead?
   - If going spell, I think we need to meld altars
+- Meld
+  - Drake Altar (x2)
+  - Hymnhowl Spirit (x1)
+- Deck
+  - \+ Drake Altar (x2)
+  - \+ Hymnhowl Spirit (x1)
+  - \- Crowd Surfer (x3)
 - Fight Kil
 - (Relic shop necessary if later switch to Death or Flux, also hex
   breaker? not sure whether it's new actually)
@@ -196,3 +203,121 @@ Strat notes:
 - Go left then ('cause, again, why not?)
 - Fight Hexi
 - Green chest
+- Backtrack to Mana forge
+  - Announcer Tsuki (x2)
+  - Jarvis (x1)
+- Fight Rez
+- Card Shop
+  - Wham Bam Jam (x1)
+  - Chaos Jam (x4)
+  - Metal Horns (x2)
+  - Hoopla (x4)
+- Deck
+  - Swap
+  - Violet's Starter
+    - Equip
+    - Edit
+  - \+ Stage dive
+  - \- Groupie (x4 -> 4)
+  - \- Crowd Surfer (x4 -> 0)
+  - \- Serpent Song (x1 -> 0)
+  - \- Bruteskin Ancient (x4)
+  - \+ Hoopla x4
+  - \+ Announcer Tsuki (x2)
+  - \+ Chaos Jam (x4)
+  - \+ Metal Horns (x2)
+  - \+ Devilcore Dance (x1)
+  - \+ Jarvis (x1)
+  - \+ Hexi (x1)
+  - Relic
+    - \+ Devilcore Choker
+- Fight Rider Ralf
+  - Level up: 2 Draconic Demise (for safety)
+- Fight Boomkin
+  - Mosh Pit early is still good
+  - Stop drawing card when there's more than a few bombs in your deck
+- Skip relic shop
+- Deck:
+  - Swap
+  - Superstar Shoutout
+    - Equip
+    - Edit
+  - \+ Wham bam jam (-1)
+  - \- Crowd Surfer (x1)
+- Fight Bulldozer
+- Deck
+  - Swap
+  - Violet's Starter
+    - Equip
+- Fight Morty Howitz
+- Deck
+  - Swap
+  - Superstar Shoutout
+- Fight Armored Lady
+- Fight Thrash
+- End Chapter
+- Relic shop
+  - Supply Sack
+- Card Shop
+  - Power Chord (x2)
+- Deck
+  - Edit
+  - \+ Power Chord (x2)
+  - \- Serpent (x2)
+  - Relic
+    - \+ Supply Sack
+- Fight Pop Star Bard
+- Green Chest (can probably skip)
+- Exit Right
+- Fight Mad Beat Bard
+- Meld
+  - \+ Dusk Drake (x1)
+- Deck
+  - Edit
+  - \+ Dusk Drake (x1)
+  - \- Rez (x1)
+- Skip chest
+- Fight Fungal M Fresh
+  - Dialogue: bottom option (“spill it”) (change if using All Access
+    Pass for Shadow Violet)
+    - (top option (“forget it“) give the badge which summons a
+      fleeting minion at the beginning of turn. I don't anticipate
+      that we'll need it, so bottom option skips the cutscene)
+- Exit Right
+- Card Shop
+  - Stella (x2)
+- Deck
+  - Edit
+  - \+ Stella (x2)
+  - \- Bruteskin Ancient (x2)
+- Fight Piper
+- Exit Right (**DON'T FIGHT TOYMANCER**)
+- Fight Victor
+- Fight Piper 2
+- Deck
+  - Swap
+  - Violet Starter
+    - Equip
+    - Edit
+    - (thought: Metal Horns and Chaos Jam are cheaper in this fight
+      because their cost changes to 4 due to Shadow Violet's relic,
+      and are hence reduced (once per turn) by the Taiyaki)
+  - \+ Bruteskin Ancient (x4)
+  - \+ Love-Struck Seto
+  - \- Groupie
+  - \- Devilcore Zealot (x4) (they're useless in this fight, Bruteskin
+    ancient, on the other hand, are decent meta)
+  - Relic
+    - \- Devilcore Choker
+    - \+ All Access Pass
+    - \+ Supply Sack
+- Fight Shadow Violet
+  - I really don't have a robust strat for this fight. Play as
+    aggressively as possible. Mulligan to improve the chance of
+    Devilcore Dance in the starting hand. Then draw for Mosh Pit. The
+    Note cards quickly become unmanageable if you don't kill quickly.
+- Deck
+  - Swap
+  - Superstar Shoutout
+- Fight Alatar
+- Exit Chapter
